@@ -3,7 +3,9 @@ RENCANA KONTEN WILLIAM
 -AK44
  *How to one tap
  *How to spray
+ *smoke
 -M41S
 -AWP
  *How to no scope
 -Deagle
+-AUG
