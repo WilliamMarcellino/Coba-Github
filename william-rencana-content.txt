@@ -3,9 +3,9 @@ RENCANA KONTEN WILLIAM
 -AK44
  *How to one tap
  *How to spray
-  ^How to through the smoke
-  ^How to reload
 -M41S
+ *Cara spray trasnfer
+ *Cara Tap
 -AWP
  *How to no scope
  *How no flick
