@@ -3,6 +3,8 @@ RENCANA KONTEN WILLIAM
 -AK44
  *How to one tap
  *How to spray
+  ^cara reload
+  ^Cara memakai Ak47
 -M41S
 -AWP
  *How to no scope
